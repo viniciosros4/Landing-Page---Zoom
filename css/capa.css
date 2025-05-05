@@ -1,0 +1,25 @@
+#capa {
+
+    grid-area: capa;
+  
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+
+
+}
+
+#capa-imagem {
+
+    grid-area: capaimagem;
+   
+
+}
+
+#capa-imagem > img {
+
+    max-width: 100%;
+
+}

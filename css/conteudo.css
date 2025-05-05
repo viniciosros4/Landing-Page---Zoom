@@ -1,0 +1,23 @@
+#conteudo {
+
+    grid-area: conteudo;
+  
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+#conteudo-imagem {
+
+    grid-area: conteudo-imagem;
+   
+
+}
+
+#conteudo-imagem > img {
+
+    max-width: 100%;
+
+}
