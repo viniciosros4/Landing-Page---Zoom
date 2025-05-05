@@ -19,7 +19,7 @@ O objetivo foi reproduzir a estrutura básica da página inicial do Zoom, focand
 
 ## 📷 Preview
 
-(Adicione aqui uma imagem da página, se quiser deixar mais completo)
+![Print do projeto](assets/capa.png)
 
 ## 💻 Como rodar
 
