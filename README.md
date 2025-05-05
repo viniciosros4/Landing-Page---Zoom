@@ -21,8 +21,7 @@ O objetivo foi reproduzir a estrutura básica da página inicial do Zoom, focand
 
 ![Print do projeto](assets/readme.png)
 
-## 💻 Como rodar
+## 💻 URL
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/zoom-landing-page.git
+https://viniciosros4.github.io/Landing-Page---Zoom/
+  
